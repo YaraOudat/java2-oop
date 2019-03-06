@@ -38,7 +38,7 @@ public class SimpleTrack {
       // print the screen
       for(int i=0; i < 100; i++) {
         if(i == pos) {
-          System.out.print(RED + "V");          
+          System.out.print(GREEN + "O" + "S");          
         }
         else {
           System.out.print(" ");
